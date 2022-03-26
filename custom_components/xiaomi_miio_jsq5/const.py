@@ -7,7 +7,7 @@ from miio.vacuum import (
     ROCKROBO_V1,
 )
 
-DOMAIN = "xiaomi_miio"
+DOMAIN = "xiaomi_miio_jsq5"
 
 # Config flow
 CONF_FLOW_TYPE = "config_flow_device"
