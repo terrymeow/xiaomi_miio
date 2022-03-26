@@ -1,0 +1,6 @@
+{
+  "name": "Xiaomi Miio Fork",
+  "content_in_root": true,
+  "render_readme": true,
+  "iot_class": "local_polling"
+}
